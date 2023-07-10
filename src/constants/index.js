@@ -55,7 +55,7 @@ import {
   const services = [
     {
       title: "DotNet Developer",
-      icon: dotnetCore,
+      icon: backend,
     },
     {
       title: "Unity-Game Developer",
@@ -66,7 +66,11 @@ import {
       icon: backend,
     },
     {
-      title: "Reactjs[begineer]",
+      title: "Java Developer",
+      icon: backend,
+    },
+    {
+      title: "Reactjs",
       icon: reactjs,
     },
   ];
